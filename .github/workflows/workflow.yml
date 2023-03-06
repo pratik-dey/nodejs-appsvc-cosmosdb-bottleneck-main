@@ -10,9 +10,9 @@ on:
 
 env:
   LOAD_TEST_RESOURCE: "cool-new-resource"
-  LOAD_TEST_RESOURCE_GROUP: "nikita-rg"
+  LOAD_TEST_RESOURCE_GROUP: "nisita-rg"
   LOAD_TEST_LOCATION: "East US"
-  AZURE_WEBAPP_NAME: "shonapp"    # set this to your application's name
+  AZURE_WEBAPP_NAME: "pratikapp"    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '14.15.1'                # set this to the node version to use
   LOCATION: "North Europe"
